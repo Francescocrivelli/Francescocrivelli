@@ -1,4 +1,12 @@
 ## Hi there 👋
+![Header](https://raw.githubusercontent.com/Francescocrivelli/Francescocrivelli/main/banner.png)
+
+![Francesco's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Francescocrivelli&show_icons=true&theme=radical)
+
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Francescocrivelli&layout=compact&theme=radical)
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=Francescocrivelli&theme=onedark)
+
 
 <!--
 **Francescocrivelli/Francescocrivelli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
