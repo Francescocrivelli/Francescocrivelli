@@ -41,6 +41,8 @@ Dreaming big!
 - **[ASIC Super Processor](https://github.com/Francescocrivelli/asic_project_fa24_super_processor)** - Custom pipeline processor in C.
 - **[Francescocrivelli.github.io](https://github.com/Francescocrivelli/francescocrivelli.github.io)** - Personal portfolio & projects.
 
+- **[built over 13 drones and 3 teleoperator systems** - Personal portfolio & projects.
+
 
 
 
