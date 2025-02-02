@@ -5,8 +5,8 @@ Dreaming big!
 ---
 💡 _"Building AI-driven systems that push the boundaries of robotics and learning."_
 
-🔗 **Connect with me:** [Website](https://francescocrivelli.com) | [LinkedIn](https://linkedin.com/in/francescocrivelli) | [Twitter](https://twitter.com/francescocrive)
-
+🔗 **Connect with me:** [Website](https://francescocrivelli.com) | [LinkedIn]([https://linkedin.com/in/francescocrivelli](https://www.linkedin.com/in/francesco-crivelli/
+)) | [Twitter](https://twitter.com/francescocrive)
 
 
 ## 🚀 Francesco Crivelli's GitHub Stats
