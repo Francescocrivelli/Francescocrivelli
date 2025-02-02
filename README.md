@@ -2,11 +2,15 @@ Hi there 👋
 
 Dreaming big!
 
-![Header](https://raw.githubusercontent.com/Francescocrivelli/Francescocrivelli/main/banner.png)
+---
+💡 _"Building AI-driven systems that push the boundaries of robotics and learning."_
+
+🔗 **Connect with me:** [Website](https://francescocrivelli.github.io) | [LinkedIn](https://linkedin.com/in/francescocrivelli) | [Twitter](https://twitter.com/francescocrivelli)
+
+
 
 ## 🚀 Francesco Crivelli's GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Francescocrivelli&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Francescocrivelli&layout=compact&theme=radical)
 ![Trophies](https://github-profile-trophy.vercel.app/?username=Francescocrivelli&theme=onedark)
 
@@ -28,7 +32,6 @@ Dreaming big!
 - 🛠 Open-sourcing **research tools and utilities** soon!
 
 
-  
 ## 📌 Pinned Projects
 ### 🚀 AI & Robotics
 - **[Voyager-194](https://github.com/Francescocrivelli/Voyager-194)** - Open-Ended AI agent in Minecraft (Forked from MineDojo/Voyager).
@@ -39,10 +42,6 @@ Dreaming big!
 - **[Francescocrivelli.github.io](https://github.com/Francescocrivelli/francescocrivelli.github.io)** - Personal portfolio & projects.
 
 
----
-💡 _"Building AI-driven systems that push the boundaries of robotics and learning."_
-
-🔗 **Connect with me:** [Website](https://francescocrivelli.github.io) | [LinkedIn](https://linkedin.com/in/francescocrivelli) | [Twitter](https://twitter.com/francescocrivelli)
 
 
 <!--
