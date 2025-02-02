@@ -1,6 +1,6 @@
 Hi there 👋
 
-Dreaming big!
+Here we are: Dreaming big!
 
 ---
 💡 _"Building AI-driven systems that push the boundaries of robotics and learning."_
